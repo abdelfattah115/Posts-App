@@ -8,4 +8,6 @@ Use state management: Bloc
 
 Gat data from Api {JSON} Placeholder
 
+
+
 ##Screenshot
